@@ -6,8 +6,8 @@ Hello-Kafka is a simple application that receives requests from `/api/v1/message
 
 Before you can run this application, you'll need to have the following installed:
 
-- Java (version X or higher)
-- Apache Kafka (version X or higher)
+- Java (version 17 or higher)
+- Apache Kafka (version 2.12 or higher)
 
 ## Getting Started
 
